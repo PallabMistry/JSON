@@ -1,0 +1,26 @@
+{
+    "name":"Pallab kumar",
+    "CGPA":3.01,
+    "isAdmin":false,
+    "shopping":["Rice","Meat","Vagetables","Oli" ],
+    "shopObj":{
+        "shopName":"Zero Mart",
+        "location":"Namabazar",
+        "score":9.3,
+        "shopItems":["Food","Healtcare","Babycare","Fish","Beauty&Makeup"],
+        "size":"Medium"
+    },
+    
+    "name":"Pallab mistry",
+    "CGPA":3.01,
+    "isAdmin":false,
+    "traveling": "Bangladesh",
+    "shopping":["Rice","Meat","Vagetables","Oli" ],
+    "shopObj":{
+        "shopName":"Zero Mart",
+        "location":"Namabazar",
+        "score":9.3,
+        "shopItems":["Food","Healtcare","Babycare","Fish","Beauty&Makeup"],
+        "size":"Medium"
+    } 
+}
