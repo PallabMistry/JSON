@@ -1,0 +1,13 @@
+{
+    "name":"pallab Mistry",
+    "age":25,
+    "addrage":"Savar,Dhaka",
+    "isStudent":true,
+    "language":["Java","Python","Dart"],
+    "tools":{
+        "framwork":["Jira","Flutter","Trello","JMeter",{
+            "api":["get","post","delete","pull","head"],
+            "test":["Postman","Rest Assured"]
+        }]
+    }
+}
